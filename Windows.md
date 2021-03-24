@@ -1,4 +1,4 @@
 # Windows
 ### goto Autostart folder
-*```Win + r
-  shell:autostart```
+* press: `Win + r` and type:
+  ```shell:autostart```
