@@ -1,44 +1,44 @@
 # Linux
 ### Commands
 Add user `herpyderpy` to `humpydumpy` group:
-* ```bash
+```bash
 	sudo usermod -a -G herpyderpy humpydumpy```
 Show groups:
-* ```bash
+```bash
 	groups```
 Another command to show groups:
-* ```bash
+```bash
 	sudo less /etc/group```
 Show users:
-* ```bash
+```bash
 	sudo cat /etc/shadow```
 Create group `herpyderpy`:
-* ```bash
+```bash
 	sudo addgroup herpyderpy ```
 Unpack `new.tar` archive to the `new` folder:
-* ```bash
+```bash
 	tar -C new -xvf new.tar```
 Show the content of the `new.tar` archive:
-* ```bash
+```bash
 	tar -tvf new.tar```
 Unpack a content of the `new.tar` archive to the current folder:
-* ```bash
+```bash
 	tar -xf new.tar```
 Create an archive `new.tar` with these `.html` files:
-* ```bash
+```bash
 	tar -cf new.tar hardware_info.html index.html```
 Show cdrom and disk info:
-* ```bash
+```bash
 	sudo lshw -class disk```
 Save the `lshw` command info to the `.html` file:
-* ```bash
+```bash
 	sudo lshw -html > hardware_info.html```
 Show current processes:
-* ```bash
+```bash
 	ps aux```
 Show current processes of the `user` user:
-* ```bash
+```bash
 	ps aux | grep user```
 Show the current disk usage (-h: human readable form):
-* ```bash
+```bash
 	df -h```
