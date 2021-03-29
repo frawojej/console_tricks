@@ -24,3 +24,5 @@
 > ^ note: these files / folders aren't on "clean" Windows machine, it's from my computer
 
 > If you want to see the hidden files / filders you need to mark the `Hidden items` option in `View` tab in File Explorer
+
+![mark hidden](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/mark_hiddens.png)
