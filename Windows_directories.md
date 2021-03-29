@@ -26,3 +26,14 @@
 > If you want to see the hidden files / filders you need to mark the `Hidden items` option in `View` tab in File Explorer
 
 ![mark hidden](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/mark_hiddens.png)
+
+## $GetCurrent
+
+$GetCurrent is a folder which is created by Windows 10 upgrades.
+It contains logs about the upgrade and the necessary and essential for the update.
+After the update it leaves the data.
+It should be usually deleted after update.
+However, sometimes these files aren't deleted and could accumulate on disk.
+
+Source: [https://www.computertechreviews.com/definition/getcurrent/](https://www.computertechreviews.com/definition/getcurrent/)
+Good article: [https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10](https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10)
