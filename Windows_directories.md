@@ -36,4 +36,5 @@ It should be usually deleted after update.
 However, sometimes these files aren't deleted and could accumulate on disk.
 
 Source: [https://www.computertechreviews.com/definition/getcurrent/](https://www.computertechreviews.com/definition/getcurrent/)
+
 Good article: [https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10](https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10)
