@@ -28,10 +28,11 @@
 ![mark hidden](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/mark_hiddens.png)
 
 > Also, if you want to see the Protected operating system files / folders you have to unmark the `Hide protected operationg system files (Recommended)` option in `View` tab in `Folder options`
+
 > It's in `View / Options`
 
-![view options]()
-![unmark protected operating system files]()
+![view options](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/view_options.png)
+![unmark protected operating system files](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/unmark_protected_operationg_system_files.png)
 
 ## $GetCurrent
 
