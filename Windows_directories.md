@@ -1,25 +1,25 @@
 # C:\
 ### Let's start with all the folders and files in the C: "root" directory^:
-| Name | Hidden | Folder / File / Shortcut | Protected operating system file |
+| Name | Folder / File / Shortcut | Hidden | Protected operating system file |
 | ----- | ----- | ----- | ----- |
-| $GetCurrent | Yes | Folder | No |
-| $RecycleBin | Yes | Folder | Yes |
-| $Config.Msi | Yes | Folder | Yes |
-| Documents and Settings | Yes | Shortcut | Yes |
-| Downloads | No | Folder | No |
-| NVIDIA^ | No | Folder | No |
-| PerfLogs | No | Folder | No |
-| Program Files | No | Folder | No |
-| Program FIles (x86) | No | Folder | No |
-| Program Data | Yes | Folder | No |
-| Recovery | Yes | Folder | Yes |
-| System Volume Information | Yes | Folder | Yes |
-| Users | No | Folder | No |
-| Windows | No | Folder | No |
-| xampp^ | No | Folder | No |
-| hiberfil.sys | Yes | File | Yes |
-| pagefile.sys | Yes | File | Yes |
-| swapfile.sys | Yes | File | Yes |
+| $GetCurrent | Folder | Yes | No |
+| $RecycleBin | Folder | Yes | Yes |
+| $Config.Msi | Folder | Yes | Yes |
+| Documents and Settings | Shortcut | Yes | Yes |
+| Downloads | Folder | No | No |
+| NVIDIA^ | Folder | No | No |
+| PerfLogs | Folder | No | No |
+| Program Files | Folder | No | No |
+| Program FIles (x86) | Folder | No | No |
+| Program Data | Folder | Yes | No |
+| Recovery | Folder | Yes | Yes |
+| System Volume Information | Folder | Yes | Yes |
+| Users | Folder | No | No |
+| Windows | Folder | No | No |
+| xampp^ | Folder | No | No |
+| hiberfil.sys | File | Yes | Yes |
+| pagefile.sys | File | Yes | Yes |
+| swapfile.sys | File | Yes | Yes |
 
 > ^ note: these files / folders aren't on "clean" Windows machine, it's from my computer
 
@@ -45,3 +45,10 @@ However, sometimes these files aren't deleted and could accumulate on disk.
 Source: [https://www.computertechreviews.com/definition/getcurrent/](https://www.computertechreviews.com/definition/getcurrent/)
 
 Good article: [https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10](https://superuser.com/questions/1322503/can-i-safely-delete-folder-getcurrent-in-windows-10)
+
+## $RecycleBin
+
+$RecycleBin is a special folder. It stores metadata of deleted item's location.
+
+*coming soon...*
+
