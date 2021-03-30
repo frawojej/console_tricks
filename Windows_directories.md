@@ -1,31 +1,37 @@
 # C:\
 ### Let's start with all the folders and files in the C: "root" directory^:
-| Name | Hidden | Folder / File |
-| ----- | ----- | ----- |
-| $GetCurrent | Yes | Folder |
-| $RecycleBin | Yes | Folder |
-| $Config.Msi | Yes | Folder |
-| Documents and Settings | Yes | Folder |
-| Downloads | No | Folder |
-| NVIDIA^ | No | Folder |
-| PerfLogs | No | Folder |
-| Program Files | No | Folder |
-| Program FIles (x86) | No | Folder |
-| Program Data | Yes | Folder |
-| Recovery | Yes | Folder |
-| System Volume Information | Yes | Folder |
-| Users | No | Folder |
-| Windows | No | Folder |
-| xampp^ | No | Folder |
-| hiberfil.sys | Yes | File |
-| pagefile.sys | Yes | File |
-| swapfile.sys | Yes | File |
+| Name | Hidden | Folder / File / Shortcut | Protected operating system file |
+| ----- | ----- | ----- | ----- |
+| $GetCurrent | Yes | Folder | No |
+| $RecycleBin | Yes | Folder | Yes |
+| $Config.Msi | Yes | Folder | Yes |
+| Documents and Settings | Yes | Shortcut | Yes |
+| Downloads | No | Folder | No |
+| NVIDIA^ | No | Folder | No |
+| PerfLogs | No | Folder | No |
+| Program Files | No | Folder | No |
+| Program FIles (x86) | No | Folder | No |
+| Program Data | Yes | Folder | No |
+| Recovery | Yes | Folder | Yes |
+| System Volume Information | Yes | Folder | Yes |
+| Users | No | Folder | No |
+| Windows | No | Folder | No |
+| xampp^ | No | Folder | No |
+| hiberfil.sys | Yes | File | Yes |
+| pagefile.sys | Yes | File | Yes |
+| swapfile.sys | Yes | File | Yes |
 
 > ^ note: these files / folders aren't on "clean" Windows machine, it's from my computer
 
 > If you want to see the hidden files / filders you need to mark the `Hidden items` option in `View` tab in File Explorer
 
 ![mark hidden](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/mark_hiddens.png)
+
+> Also, if you want to see the Protected operating system files / folders you have to unmark the `Hide protected operationg system files (Recommended)` option in `View` tab in `Folder options`
+> It's in `View / Options`
+
+![view options]()
+![unmark protected operating system files]()
 
 ## $GetCurrent
 
