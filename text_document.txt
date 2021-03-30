@@ -1,3 +1,4 @@
+
 # C:\
 ### Let's start with all the folders in the C: "root" directory:
 | Folder name | Hidden |
