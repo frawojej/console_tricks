@@ -50,11 +50,12 @@ Good article: [https://superuser.com/questions/1322503/can-i-safely-delete-folde
 
 $RecycleBin is a special folder. It stores metadata of deleted item's location.
 
-Inside this folder there are some special named files starting with `SID`\*.
+Inside this folder there are special named folders starting with `SID`\*.
 
 ```
 * SID - security identifier, is a number used to identify user, group, and computer accounts in Windows. They're created when the account is first made in Windows and no two SIDs on a computer are ever the same. The term security ID is sometimes used in place of SID or security identifier
 ```
+Every folder name is a different user's SID.
 
 *more coming soon...*
 
