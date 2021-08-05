@@ -57,5 +57,9 @@ Inside this folder there are special named folders starting with `SID`\*.
 ```
 Every folder name is a different user's SID.
 
+Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
+
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+
 *more coming soon...*
 
