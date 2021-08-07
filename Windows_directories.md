@@ -59,9 +59,9 @@ Every folder name is a different user's SID.
 
 Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
+
+
 
 *more coming soon...*
 
