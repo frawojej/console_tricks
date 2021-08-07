@@ -71,6 +71,7 @@ in your CMD console.
 
 Let's create file called `File.txt`
 ![create File.txt](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/file_txt.png)
+
 And now drag and drop it to Recycle Bin
 
 *more coming soon...*
