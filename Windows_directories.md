@@ -69,5 +69,8 @@ wmic useraccount get name,sid
 ```
 in your CMD console.
 
+Let's create file called `File.txt`
+And now drag and drop it to Recycle Bin
+
 *more coming soon...*
 
