@@ -89,13 +89,20 @@ and the third called `desktop.ini`
 
 The `$I` file contains metadata about deleted file (deletion time, path...).
 The `$R` file include data inside the file.
+
 They get random file name to avoid name conflicts.
 
+
 The `$I` file consists of:
+
 File header, always `02 00 00 00 00 00 00 00`
+
 Deleted file size, also 8 bytes
+
 Deletion date, also 8 bytes
+
 File name length (how many bytes the file has), 4 bytes
+
 Original full path of file with original file name
 
 
