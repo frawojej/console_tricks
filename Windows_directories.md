@@ -93,6 +93,7 @@ The `$R` file include data inside the file.
 They get random file name to avoid name conflicts.
 
 
+
 The `$I` file consists of:
 
 File header, always `02 00 00 00 00 00 00 00`
