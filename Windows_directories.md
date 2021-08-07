@@ -77,5 +77,27 @@ And now drag and drop it to Recycle Bin
 
 ![file inside recycle bin](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/file_txt_inside_recycle_bin.png)
 
+No let's open `C:\$Recycle.Bin\` folder using WSL.
+
+Go to my_SID folder.
+And list files using `ls -lA`.
+
+The most likely you'll see 3 files:
+one starting with `$I`
+second starting with `$R`
+and the third called `desktop.ini`
+
+The `$I` file contains metadata about deleted file (deletion time, path...).
+The `$R` file include data inside the file.
+They get random file name to avoid name conflicts.
+
+The `$I` file consists of:
+File header, always `02 00 00 00 00 00 00 00`
+Deleted file size, also 8 bytes
+Deletion date, also 8 bytes
+File name length (how many bytes the file has), 4 bytes
+Original full path of file with original file name
+
+
 *more coming soon...*
 
