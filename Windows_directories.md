@@ -75,5 +75,7 @@ Let's create file called `File.txt`
 
 And now drag and drop it to Recycle Bin
 
+![file inside recycle bin](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/file_txt_inside_recycle_bin.png)
+
 *more coming soon...*
 
