@@ -90,9 +90,7 @@ and the third called `desktop.ini`
 The `$I` file contains metadata about deleted file (deletion time, path...).
 The `$R` file include data inside the file.
 
-They get random file name to avoid name conflicts.
-
-
+They get random file name to avoid name conflicts.\
 
 The `$I` file consists of:
 
