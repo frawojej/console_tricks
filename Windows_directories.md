@@ -61,7 +61,13 @@ Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.li
 
 YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
 
+#### How can I check my SID?
 
+To check your SID just type:
+```bat
+wmic useraccount get name,sid
+```
+in your CMD console.
 
 *more coming soon...*
 
