@@ -86,6 +86,9 @@ and the third called `desktop.ini`
 - the `$R` file include data inside the file.
 
 They get random file name to avoid name conflicts.
+The name is always $I/$R + 6 random characters.
+The deleted file's $I and $R names are the same.
+The extension of the $R/$I file determines the file type displayed in recycle bin.
 
 <br>
 
