@@ -92,21 +92,16 @@ They get random file name to avoid name conflicts.
 
 The `$I` file consists of:
 
-File header, always `02 00 00 00 00 00 00 00`
-
-Deleted file size, also 8 bytes
-
-Deletion date, also 8 bytes
-
-File name length (how many bytes the file has), 4 bytes
-
-Original full path of file with original file name
-
+- File header, always `02 00 00 00 00 00 00 00`
+- Deleted file size, also 8 bytes
+- Deletion date, also 8 bytes
+- File name length (how many bytes the file has), 4 bytes
+- Original full path of file with original file name
 
 
 Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
 
-YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY){:target="_blank"}
+YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
 
 *more coming soon...*
 
