@@ -113,5 +113,10 @@ If you want to open it it says `Access denied`<br>
 According to Social Technet Microsoft: `Documents and settings is not a real folder. It is called a junction point and is used for legacy program interface.`
 [Social Technet Microsoft](https://social.technet.microsoft.com/Forums/windows/en-US/df74d97f-a311-48fa-848f-5025540b53af/how-to-delete-cdocuments-and-settings-folder-127gb?forum=w7itproinstall)
 
+## Perflogs
+
+It is special system folder.<br>
+It stores system log files that can be used to detect errors, system issues, performance related reports and so on.
+
 *more coming soon...*
 
