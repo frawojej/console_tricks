@@ -84,9 +84,9 @@ and the third called `desktop.ini`
 - the `$I` file contains metadata about deleted file (deletion time, path...).
 - the `$R` file include data inside the file.
 
-They get random file name to avoid name conflicts.
-The name is always $I/$R + 6 random characters.
-The deleted file's $I and $R names are the same.
+They get random file name to avoid name conflicts.<br>
+The name is always $I/$R + 6 random characters.<br>
+The deleted file's $I and $R names are the same.<br>
 The extension of the $R/$I file determines the file type displayed in recycle bin.
 
 <br>
