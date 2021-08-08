@@ -79,12 +79,11 @@ Go to my_SID folder.
 And list files using `ls -lA`.
 
 The most likely you'll see 3 files:
-one starting with `$I`
+- one starting with `$I`
 second starting with `$R`
 and the third called `desktop.ini`
-
-The `$I` file contains metadata about deleted file (deletion time, path...).
-The `$R` file include data inside the file.
+- the `$I` file contains metadata about deleted file (deletion time, path...).
+- the `$R` file include data inside the file.
 
 They get random file name to avoid name conflicts.
 
