@@ -4,7 +4,6 @@
 | ----- | ----- | ----- | ----- |
 | $GetCurrent | Folder | Yes | No |
 | $RecycleBin | Folder | Yes | Yes |
-| $Config.Msi | Folder | Yes | Yes |
 | Documents and Settings | Shortcut | Yes | Yes |
 | Downloads | Folder | No | No |
 | NVIDIA^ | Folder | No | No |
@@ -104,6 +103,15 @@ The `$I` file consists of:
 Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
 
 YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
+
+## Documents and Settings
+
+It is historical folder used for example in Windows XP.
+In Windows 10 it doesn't really matter.
+If you want to open it it says `Access denied`
+
+According to Social Technet Microsoft: `Documents and settings is not a real folder. It is called a junction point and is used for legacy program interface.`
+[Social Technet Microsoft](https://social.technet.microsoft.com/Forums/windows/en-US/df74d97f-a311-48fa-848f-5025540b53af/how-to-delete-cdocuments-and-settings-folder-127gb?forum=w7itproinstall)
 
 *more coming soon...*
 
