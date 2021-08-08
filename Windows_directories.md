@@ -106,7 +106,7 @@ Original full path of file with original file name
 
 Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
 
-YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
+YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY){:target="_blank"}
 
 *more coming soon...*
 
