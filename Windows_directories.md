@@ -57,10 +57,6 @@ Inside this folder there are special named folders starting with `SID`\*.
 ```
 Every folder name is a different user's SID.
 
-Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
-
-YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
-
 #### How can I check my SID?
 
 To check your SID just type:
@@ -92,7 +88,7 @@ The `$R` file include data inside the file.
 
 They get random file name to avoid name conflicts.
 
-
+<br>
 
 The `$I` file consists of:
 
@@ -106,6 +102,11 @@ File name length (how many bytes the file has), 4 bytes
 
 Original full path of file with original file name
 
+
+
+Sources: [https://www.lifewire.com/what-is-an-sid-number-2626005](https://www.lifewire.com/what-is-an-sid-number-2626005)
+
+YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
 
 *more coming soon...*
 
