@@ -106,9 +106,9 @@ YT: [https://youtu.be/jk8Io_cgYyY](https://youtu.be/jk8Io_cgYyY)
 
 ## Documents and Settings
 
-It is historical folder used for example in Windows XP.
-In Windows 10 it doesn't really matter.
-If you want to open it it says `Access denied`
+It is historical folder used for example in Windows XP.<br>
+In Windows 10 it doesn't really matter.<br>
+If you want to open it it says `Access denied`<br>
 
 According to Social Technet Microsoft: `Documents and settings is not a real folder. It is called a junction point and is used for legacy program interface.`
 [Social Technet Microsoft](https://social.technet.microsoft.com/Forums/windows/en-US/df74d97f-a311-48fa-848f-5025540b53af/how-to-delete-cdocuments-and-settings-folder-127gb?forum=w7itproinstall)
