@@ -118,5 +118,28 @@ According to Social Technet Microsoft: `Documents and settings is not a real fol
 It is special system folder.<br>
 It stores system log files that can be used to detect errors, system issues, performance related reports and so on.
 
+## Program files
+
+This is very important folder.<br>
+It stores programs that user installed such as:
+- internet browsers:
+   - Firefox
+   - Opera
+   - Google Chrome
+- mail programs:
+   - Mozilla Thunderbird
+- game software:
+   - Steam
+   - Blizzard
+   - RockStar
+- virtual machine programs:
+   - Oracle VirtualBox
+   - VMWare
+- developer programs:
+   - Visual Studio
+   - Sublime Text
+   - Unity Engine
+
+
 *more coming soon...*
 
