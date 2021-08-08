@@ -139,6 +139,9 @@ It stores programs that user installed such as:
    - Visual Studio
    - Sublime Text
    - Unity Engine
+- many other programs
+From Wikipedia: `[...] that are not part of the operating system are conventionally installed`.
+
 
 
 *more coming soon...*
