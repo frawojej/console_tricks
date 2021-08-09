@@ -143,6 +143,7 @@ It stores programs that user installed such as:
 
 From Wikipedia: `[...] that are not part of the operating system are conventionally installed`.
 
+Program Files has the Common Files folder which stores data shared between different applications.
 
 
 *more coming soon...*
