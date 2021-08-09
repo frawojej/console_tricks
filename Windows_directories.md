@@ -166,7 +166,7 @@ Source: [How to geek](https://www.howtogeek.com/278562/what-is-the-programdata-f
 ## System Volume Information
 
 [How to geek](https://www.howtogeek.com/282214/what-is-the-system-volume-information-folder-and-can-i-delete-it/):
-<br>
+
 It is system folder and access to it is denied.<br>
 Windows stores here `restore points`.
 
