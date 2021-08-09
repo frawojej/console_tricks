@@ -163,5 +163,11 @@ Source: [How to geek](https://www.howtogeek.com/278562/what-is-the-programdata-f
 
 `contains WinRE.wim if you don't have a separate recovery partition. Deleting this would stop advanced startup options working. It is normally a system directory so you can't see it just by showing hidden files. `
 
+## System Volume Information
+
+[How to geek](https://www.howtogeek.com/282214/what-is-the-system-volume-information-folder-and-can-i-delete-it/):
+It is system folder and access to it is denied.<br>
+Windows stores here `restore points`.
+
 *more coming soon...*
 
