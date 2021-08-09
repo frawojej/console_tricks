@@ -118,7 +118,7 @@ According to Social Technet Microsoft: `Documents and settings is not a real fol
 It is special system folder.<br>
 It stores system log files that can be used to detect errors, system issues, performance related reports and so on.
 
-## Program files
+## Program Files
 
 This is very important folder.<br>
 It stores programs that user installed such as:
@@ -145,7 +145,7 @@ From Wikipedia: `[...] that are not part of the operating system are conventiona
 
 Program Files has the Common Files folder which stores data shared between different applications.
 
-## Program FIles (x86)
+## Program Files (x86)
 
 It has the same purpose as Program Files but it's for installing 32 bit programs.
 
@@ -156,6 +156,12 @@ Some programs' settings might be stored here.
 This folder is shared to all users.
 
 Source: [How to geek](https://www.howtogeek.com/278562/what-is-the-programdata-folder-in-windows/)
+
+## Recovery
+
+[tenforums](https://www.tenforums.com/general-support/4848-recovery-folder-c.html):
+
+`contains WinRE.wim if you don't have a separate recovery partition. Deleting this would stop advanced startup options working. It is normally a system directory so you can't see it just by showing hidden files. `
 
 *more coming soon...*
 
