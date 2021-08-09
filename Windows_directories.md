@@ -145,6 +145,17 @@ From Wikipedia: `[...] that are not part of the operating system are conventiona
 
 Program Files has the Common Files folder which stores data shared between different applications.
 
+## Program FIles (x86)
+
+It has the same purpose as Program Files but it's for installing 32 bit programs.
+
+## Program Data
+
+According to Microsoft: `this folder is used for application data that is not user specific`
+Some programs' settings might be stored here.
+This folder is shared to all users.
+
+Source: [How to geek](https://www.howtogeek.com/278562/what-is-the-programdata-folder-in-windows/)
 
 *more coming soon...*
 
