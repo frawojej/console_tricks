@@ -177,5 +177,35 @@ Winre.wim is responsible for opening recovery environment which is used for spec
 It is system folder and access to it is denied.<br>
 Windows stores here `restore points`.
 
+It is special folder for each drive in Windows.
+
+## Users
+
+It's very important folder which consists of users' folders.<br>
+Each user's folder has special folders such as:
+- AppData
+- Contacts
+- Desktop (desktop files and recycle bin)
+- Downloads (files downloaded for example in Google Chrome)
+- Music
+- Videos
+- Pictures
+- and so on
+
+AppData is a special hidden folder which contains settings and custom information about the applications.
+
+## Windows
+
+It's the most important folder for all the systems' files in Windows:
+- boot files - used to detect and load the system by BIOS
+- all system apps (notepad, calculator, paint, command prompt, powershell, windows explorer)
+- registry (`regedit.exe` - very important app, it's like hierarchical database for sonfiguration files)
+- the kernel of the system (`ntoskrnl.exe` - it's the main app that make Windows works)
+- task manager
+- mmc (Microsoft Management Console - special program for administration and computer management)
+- many other system apps...
+
+
+
 *more coming soon...*
 
