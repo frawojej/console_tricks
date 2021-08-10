@@ -2,7 +2,7 @@
 ### Let's start with all the folders and files in the C: "root" directory^:
 | Name | Folder / File / Shortcut | Hidden | Protected operating system file |
 | ----- | ----- | ----- | ----- |
-| $GetCurrent | Folder | Yes | No |
+| [$GetCurrent](#getcurrent) | Folder | Yes | No |
 | $RecycleBin | Folder | Yes | Yes |
 | [Documents and Settings](#documents-and-settings) | Shortcut | Yes | Yes |
 | Downloads | Folder | No | No |
