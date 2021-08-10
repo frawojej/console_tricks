@@ -162,6 +162,13 @@ Source: [How to geek](https://www.howtogeek.com/278562/what-is-the-programdata-f
 [tenforums](https://www.tenforums.com/general-support/4848-recovery-folder-c.html):
 
 `contains WinRE.wim if you don't have a separate recovery partition. Deleting this would stop advanced startup options working. It is normally a system directory so you can't see it just by showing hidden files. `
+So common files here could be:
+- `boot.sdi`
+- `Winre.wim`
+
+Winre.wim is recovery environment which opens for special purposes.
+
+![Windows recovery](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/windows_recovery.png)
 
 ## System Volume Information
 
