@@ -166,7 +166,7 @@ So common files here could be:
 - `boot.sdi`
 - `Winre.wim`
 
-Winre.wim is recovery environment which opens for special purposes.
+Winre.wim is responsible for opening recovery environment which is used for special purposes.
 
 ![Windows recovery](https://raw.githubusercontent.com/frawojej/console_tricks/main/img/windows_recovery.png)
 
