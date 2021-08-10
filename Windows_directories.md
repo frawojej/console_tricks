@@ -10,11 +10,11 @@
 | [PerfLogs](#perflogs) | Folder | No | No |
 | [Program Files](#program-files) | Folder | No | No |
 | [Program FIles (x86)](#program-files-x86) | Folder | No | No |
-| Program Data | Folder | Yes | No |
-| Recovery | Folder | Yes | Yes |
-| System Volume Information | Folder | Yes | Yes |
-| Users | Folder | No | No |
-| Windows | Folder | No | No |
+| [Program Data](#program-data) | Folder | Yes | No |
+| [Recovery](#recovery) | Folder | Yes | Yes |
+| [System Volume Information](#system-volume-information) | Folder | Yes | Yes |
+| [Users](#users) | Folder | No | No |
+| [Windows](#windows) | Folder | No | No |
 | xampp^ | Folder | No | No |
 | hiberfil.sys | File | Yes | Yes |
 | pagefile.sys | File | Yes | Yes |
