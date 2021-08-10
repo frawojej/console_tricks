@@ -3,13 +3,13 @@
 | Name | Folder / File / Shortcut | Hidden | Protected operating system file |
 | ----- | ----- | ----- | ----- |
 | [$GetCurrent](#getcurrent) | Folder | Yes | No |
-| $RecycleBin | Folder | Yes | Yes |
+| [$RecycleBin](#recyclebin) | Folder | Yes | Yes |
 | [Documents and Settings](#documents-and-settings) | Shortcut | Yes | Yes |
-| Downloads | Folder | No | No |
-| NVIDIA^ | Folder | No | No |
-| PerfLogs | Folder | No | No |
-| Program Files | Folder | No | No |
-| Program FIles (x86) | Folder | No | No |
+| [Downloads](#downloads) | Folder | No | No |
+| [NVIDIA^](#nvidia) | Folder | No | No |
+| [PerfLogs](#perflogs) | Folder | No | No |
+| [Program Files](#program-files) | Folder | No | No |
+| [Program FIles (x86)](#program-files-x86) | Folder | No | No |
 | Program Data | Folder | Yes | No |
 | Recovery | Folder | Yes | Yes |
 | System Volume Information | Folder | Yes | Yes |
