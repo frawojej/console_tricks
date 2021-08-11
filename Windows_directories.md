@@ -15,7 +15,7 @@
 | [System Volume Information](#system-volume-information) | Folder | Yes | Yes |
 | [Users](#users) | Folder | No | No |
 | [Windows](#windows) | Folder | No | No |
-| xampp^ | Folder | No | No |
+| [xampp^](#xampp) | Folder | No | No |
 | hiberfil.sys | File | Yes | Yes |
 | pagefile.sys | File | Yes | Yes |
 | swapfile.sys | File | Yes | Yes |
@@ -216,6 +216,10 @@ XAMPP stands for:
 
 It's local server for Windows that allows you to for example run PHP files.<br>
 You can read more about this product on: [Apache Friends](https://www.apachefriends.org) website.
+
+## hiberfil.sys
+
+This file is create only if hibernating option is enabled.
 
 *more coming soon...*
 
