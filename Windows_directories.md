@@ -223,7 +223,11 @@ This file is create only if hibernating option is enabled.
 
 ## pagefile.sys
 
+It is similar to `swapfile.sys` but it's also used to store information about the computer state in case of computer error.
+
 ## swapfile.sys
+
+It's used when computer has lack of RAM and uses disk space for it.
 
 *more coming soon...*
 
