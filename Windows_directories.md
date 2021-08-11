@@ -16,7 +16,7 @@
 | [Users](#users) | Folder | No | No |
 | [Windows](#windows) | Folder | No | No |
 | [xampp^](#xampp) | Folder | No | No |
-| hiberfil.sys | File | Yes | Yes |
+| [hiberfil.sys](#hiberfil.sys) | File | Yes | Yes |
 | pagefile.sys | File | Yes | Yes |
 | swapfile.sys | File | Yes | Yes |
 
@@ -220,6 +220,10 @@ You can read more about this product on: [Apache Friends](https://www.apachefrie
 ## hiberfil.sys
 
 This file is create only if hibernating option is enabled.
+
+## pagefile.sys
+
+## swapfile.sys
 
 *more coming soon...*
 
