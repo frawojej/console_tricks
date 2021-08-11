@@ -205,7 +205,17 @@ It's the most important folder for all the systems' files in Windows:
 - mmc (Microsoft Management Console - special program for administration and computer management)
 - many other system apps...
 
+## xampp
 
+XAMPP stands for:
+- X - cross platform
+- A - Apache
+- M - MariaDB
+- P - PHP
+- P - Pearl
+
+It's local server for Windows that allows you to for example run PHP files.<br>
+You can read more about this product on: [Apache Friends](https://www.apachefriends.org) website.
 
 *more coming soon...*
 
