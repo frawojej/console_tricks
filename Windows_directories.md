@@ -17,8 +17,8 @@
 | [Windows](#windows) | Folder | No | No |
 | [xampp^](#xampp) | Folder | No | No |
 | [hiberfil.sys](#hiberfilsys) | File | Yes | Yes |
-| pagefile.sys | File | Yes | Yes |
-| swapfile.sys | File | Yes | Yes |
+| [pagefile.sys](#pagefilesys) | File | Yes | Yes |
+| [swapfile.sys](#swapfilesys) | File | Yes | Yes |
 
 > ^ note: these files / folders aren't on "clean" Windows machine, it's from my computer
 
