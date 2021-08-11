@@ -16,7 +16,7 @@
 | [Users](#users) | Folder | No | No |
 | [Windows](#windows) | Folder | No | No |
 | [xampp^](#xampp) | Folder | No | No |
-| [hiberfil.sys](#hiberfil-sys) | File | Yes | Yes |
+| [hiberfil.sys](#hiberfilsys) | File | Yes | Yes |
 | pagefile.sys | File | Yes | Yes |
 | swapfile.sys | File | Yes | Yes |
 
